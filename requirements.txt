@@ -1,0 +1,8 @@
+llama-parse
+torch
+torch-vision
+python-dotenv
+
+unstructured
+sentence-transformers
+llama-index-embeddings-huggingface

@@ -1,0 +1,8 @@
+.env
+cache_model
+chroma_db
+marker-output
+pipeline_store
+qa_generate
+processed_files.txt
+__pycache__
